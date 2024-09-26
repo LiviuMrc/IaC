@@ -1,1 +1,1 @@
-# IaC-Hacktegic
+# IaC
